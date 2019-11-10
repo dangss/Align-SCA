@@ -26,7 +26,6 @@ from .model import (
     FairseqEncoderModel,
     FairseqAugment,
     FairseqSCA,
-    FairseqACL
 )
 
 from .composite_encoder import CompositeEncoder # noqa: F401

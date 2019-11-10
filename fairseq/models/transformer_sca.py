@@ -22,7 +22,6 @@ from fairseq.models import (
     register_model_architecture,
     FairseqAugment,
     FairseqSCA,
-    FairseqACL
 )
 from fairseq.modules import (
     AdaptiveSoftmax,
